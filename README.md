@@ -1,2 +1,2 @@
 # PythonSample
-Data structures running algos in Python
+Data structures algos in Python
